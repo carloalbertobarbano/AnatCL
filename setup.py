@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='anatcl',
-    version='0.0.1',
+    version='0.0.2',
     url='https://github.com/carloalbertobarbano/AnatCL',
     author='Carlo Alberto Barbano',
     author_email='carlo.barbano@unito.it',

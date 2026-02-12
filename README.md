@@ -49,10 +49,15 @@ Coming soon
 If you find our models useful please do not forget to cite this work as
 
 ```bibtex
-@article{barbano2024anatomical,
-  title={Anatomical Foundation Models for Brain MRIs},
-  author={Barbano, Carlo Alberto and Brunello, Matteo and Dufumier, Benoit and Grangetto, Marco},
-  journal={arXiv preprint arXiv:2408.07079},
-  year={2024}
+@article{barbano2026anatomical,
+  title = {Anatomical foundation models for brain MRIs},
+  journal = {Pattern Recognition Letters},
+  volume = {199},
+  pages = {178-184},
+  year = {2026},
+  issn = {0167-8655},
+  doi = {https://doi.org/10.1016/j.patrec.2025.11.028},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167865525003848},
+  author = {Carlo Alberto Barbano and Matteo Brunello and Benoit Dufumier and Marco Grangetto},
 }
 ```
